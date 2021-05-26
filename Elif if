@@ -1,0 +1,12 @@
+no=int(raw_input("enter number"))
+If  no%2==1
+    Print("weird")
+Elif (no>=2 and n<=5)
+     Print("not weird")
+Elif (n>=6 and n<=20)
+     Print("weird")
+Else (n>20)
+     Print("not weird")
+Output:
+Enter number 4 
+Not weird
